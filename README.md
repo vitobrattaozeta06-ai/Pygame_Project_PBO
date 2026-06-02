@@ -1,12 +1,17 @@
+# Alien Escape
+
+## Deskripsi
+
+
 Proyek ini kami beri nama Alien Escape. Ini adalah game bertema 2D sidescroll shooter yang mengambil inspirasi utama dari judul terkenal “Metal Slug” dan “Contra” dengan genre yang sama. 
 Terdapat 5 level dengan 3 boss dari level 3 - 5. Setelah boss level 5 dikalahkan, ada gameplay tambahan yang berbeda dari game utama yang mengambil tema “Bullet Hell” sebagai extension yang menjadi wave clearing sampai menuju boss sejati.
 
 
 Anggota Kami:
-Vitobratta Omar Zeta (25051204015)
-Deardo Saragih (25051204057)
-Mohammad Shidqi Fajduani (25051204126)
-Martino Rahardyan Ahmad (25051204226)
+* Vitobratta Omar Zeta (25051204015)
+* Deardo Saragih (25051204057)
+* Mohammad Shidqi Fajduani (25051204126)
+* Martino Rahardyan Ahmad (25051204226)
 
 
 Fitur utama yang game ini berikan adalah genrenya sendiri, Sidescroll Shooter. Pemain mengendalikan karakter astronot yang terdampar di planet asing yang harus melawan alien dengan berbagai macam alat loot tersedia di map. 
