@@ -3,7 +3,7 @@
 ## Deskripsi
 
 
-Proyek ini kami beri nama Alien Escape. Ini adalah game bertema 2D sidescroll shooter yang mengambil inspirasi utama dari judul terkenal “Metal Slug” dan “Contra” dengan genre yang sama. 
+Proyek ini kami beri nama Alien Escape. Ini adalah game bertema 2D sidescroll shooter yang mengambil inspirasi utama dari judul terkenal “Metal Slug” dan “Contra” dengan genre yang  sama. 
 Terdapat 5 level dengan 3 boss dari level 3 - 5. Setelah boss level 5 dikalahkan, ada gameplay tambahan yang berbeda dari game utama yang mengambil tema “Bullet Hell” sebagai extension yang menjadi wave clearing sampai menuju boss sejati.
 
 
